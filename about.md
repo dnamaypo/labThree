@@ -9,4 +9,4 @@ This page is about me.
 
 And this is a paragraph.
 
-hes a pretty cool guy
+hes a pretty lame dude.
