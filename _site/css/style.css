@@ -1,6 +1,6 @@
 body {
      color: rgb(228, 187, 85);
-     font-style: arial;
+     font-family: Arial, Helvetica, sans-serif;
      margin: 0;
      padding: 5vw;
 }
@@ -19,6 +19,12 @@ a:link {
      text-decoration: none;
 }
 li {
-     padding:0 15px 0 15px;
+     padding:0 25px 0 25px;
      font-size: 2.5em;
+}
+img {
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }

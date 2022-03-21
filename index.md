@@ -1,10 +1,10 @@
 ---
 layout: layout.html
-title: Welcome Home!
+title: Cute Pupper!
 eleventyNavigation:
-     key: Home
+     key: Bork
 ---
 # {{ title }}
-Good Ol Paragraph!
+**Say Hi to Greg!**
 
-![Dog](/images/Gregory.jpg)
+![Dog](img/Gregory.jpg)
