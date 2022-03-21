@@ -13,6 +13,7 @@ list-style: none;
     padding: 0;
     margin: 0;
     display: flex;
+    font-size: x-large;
 }
 li {
      padding: 0 15px 0 15px;
