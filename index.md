@@ -6,3 +6,5 @@ eleventyNavigation:
 ---
 # {{ title }}
 Good Ol Paragraph!
+
+![Dog](/images/Gregory.jpg)
