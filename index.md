@@ -1,6 +1,6 @@
 ---
 layout: layout.html
-title: My Site!
+title: Welcome Home!
 eleventyNavigation:
      key: Home
 ---
